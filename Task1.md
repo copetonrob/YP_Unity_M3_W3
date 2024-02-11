@@ -6,32 +6,30 @@
 
 ## Требования
 
-Зайди на сайт [Миксамо](https://www.mixamo.com/) и загрузи своего персонажа на вкладке Characters.
+1. Зайди на сайт [Миксамо](https://www.mixamo.com/) и загрузи своего персонажа на вкладке Characters.
 
-Скачай для своего персонажа анимации idle(ожидание), бега и прыжка.
+2. Скачай для своего персонажа анимации idle(ожидание), бега и прыжка.
 
-Добавь анимации в проект и настрой им параметры, как мы делали [в прошлом модуле](https://github.com/copetonrob/YP_Unity_M2_W9/blob/main/Task1.md).
+3. Добавь анимации в проект и настрой им параметры, как мы делали [в прошлом модуле](https://github.com/copetonrob/YP_Unity_M2_W9/blob/main/Task1.md).
 
-Создай аниматор контроллер и закинь в него анимации.
+4. Создай аниматор контроллер и закинь в него анимации.
 
-Создай в аниматор контроллере параметры bool isRun, bool isGrounded
+5. Создай в аниматор контроллере параметры bool isRun, bool isGrounded
 
 https://github.com/copetonrob/YP_Unity_M3_W3/assets/58771904/e4029074-b9ad-4eae-b32b-e38fa191042c
 
-<video src='https://github.com/copetonrob/YP_Unity_M3_W3/blob/main/video/video1.mp4' width=600/>
+6. Создай переходы между анимациями.
 
-Создай переходы между анимациями как на картинке.
+https://github.com/copetonrob/YP_Unity_M3_W3/assets/58771904/34f3125c-da88-4131-b04e-bdbd23362b69
 
-<video src='https://github.com/copetonrob/YP_Unity_M3_W3/blob/main/video/video2.mp4' width=600/>
+7. Настрой параметры переходов. Не забудь убрать галочки Has Exit Time.
 
-Настрой параметры переходов. Не забудь убрать галочки Has Exit Time.
+https://github.com/copetonrob/YP_Unity_M3_W3/assets/58771904/b4e9db18-7bb2-44fc-9168-83d4c36900e3
 
-<video src='https://github.com/copetonrob/YP_Unity_M3_W3/blob/main/video/video3.mp4' width=600/>
+8. В скрипте добавь ссылку на аниматор и укажи условия, при которых переключаются параметры аниматора. Нужно всего лишь уставновить bool переменные аниматора в нужное значение и смена анимаций по переходам произойдет автоматически.
 
-В скрипте добавь ссылку на аниматор и укажи условия, при которых переключаются параметры аниматора. Нужно всего лишь уставновить bool переменные аниматора в нужное значение и смена анимаций по переходам произойдет автоматически.
+https://github.com/copetonrob/YP_Unity_M3_W3/assets/58771904/ac42f367-09a8-4fd2-9781-537c28b84b23
 
-<video src='https://github.com/copetonrob/YP_Unity_M3_W3/blob/main/video/video4.mp4' width=600/>
-
-Не забудь указать ссылку на аниматор в модельке персонажа.
+9. Не забудь указать ссылку на аниматор в модельке персонажа.
 
 <img src="https://github.com/copetonrob/YP_Unity_M3_W2/blob/main/img/img1.png" width="300"/>
