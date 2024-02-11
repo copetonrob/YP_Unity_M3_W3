@@ -32,4 +32,4 @@ https://github.com/copetonrob/YP_Unity_M3_W3/assets/58771904/ac42f367-09a8-4fd2-
 
 9. Не забудь указать ссылку на аниматор в модельке персонажа.
 
-<img src="https://github.com/copetonrob/YP_Unity_M3_W2/blob/main/img/img1.png" width="300"/>
+<img src="https://github.com/copetonrob/YP_Unity_M3_W3/blob/main/img/img1.png" width="300"/>
