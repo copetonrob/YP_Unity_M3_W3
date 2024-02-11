@@ -16,6 +16,8 @@
 
 Создай в аниматор контроллере параметры bool isRun, bool isGrounded
 
+https://github.com/copetonrob/YP_Unity_M3_W3/assets/58771904/e4029074-b9ad-4eae-b32b-e38fa191042c
+
 <video src='https://github.com/copetonrob/YP_Unity_M3_W3/blob/main/video/video1.mp4' width=600/>
 
 Создай переходы между анимациями как на картинке.
