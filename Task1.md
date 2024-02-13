@@ -26,6 +26,8 @@
 
 https://github.com/copetonrob/YP_Unity_M3_W3/assets/58771904/e4029074-b9ad-4eae-b32b-e38fa191042c
 
+**Если видео не открывается сюда [ТЫК](https://youtu.be/P9yOt-jUZpM) **
+
 6. Создай переходы между анимациями.
 
 https://github.com/copetonrob/YP_Unity_M3_W3/assets/58771904/34f3125c-da88-4131-b04e-bdbd23362b69
